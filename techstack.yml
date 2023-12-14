@@ -1,7 +1,7 @@
 repo_name: hxtruong6/Trip-planner-and-Booking
-report_id: 6248651cbd113c1d068c73f6723952fb
+report_id: d165b1c0ddbdf64d091854ff1536568d
 repo_type: Public
-timestamp: '2023-11-14T05:12:41+00:00'
+timestamp: '2023-12-14T10:36:58+00:00'
 requested_by: hxtruong6
 provider: github
 branch: master
@@ -27,7 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: app/build.gradle
+  detection_source_url: https://github.com/hxtruong6/Trip-planner-and-Booking/blob/master/app/build.gradle
   detection_source: app/build.gradle
   last_updated_by: hxtruong
   last_updated_on: 2021-01-25 10:54:14.000000000 Z
@@ -49,7 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: gradlew.bat
+  detection_source: app/build.gradle
   last_updated_by: hxtruong
   last_updated_on: 2021-01-25 10:54:14.000000000 Z
 - name: Android OS
@@ -61,7 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: app/build.gradle
+  detection_source_url: https://github.com/hxtruong6/Trip-planner-and-Booking/blob/master/app/build.gradle
   detection_source: app/build.gradle
   last_updated_by: hxtruong
   last_updated_on: 2021-01-25 10:54:14.000000000 Z
